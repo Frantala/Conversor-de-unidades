@@ -7,3 +7,8 @@ Para poder ejecutar el programa después de clonarlo debes hacer en la carpeta d
  ```
 pip install -r requirements.txt
  ```
+Una vez hecho esto, para que convierta el Excel de CMs a Pulgadas debemos ejecutar en la consola:
+
+ ```
+python conversor_medidas.py
+ ```
